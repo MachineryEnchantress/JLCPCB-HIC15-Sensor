@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: HIC15.PcbDoc   10/13/2019  3:20:23 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : HIC15-RoundHoles.TXT
+ASCII SlotHoles File : HIC15-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             59        PTH        7.06inch (179.30mm)
+T2      20mil (0.5mm)                                             Slot              2         PTH        0.60inch (15.33mm)
+T3      22mil (0.55mm)                                            Slot              2         PTH        0.43inch (10.90mm)
+T4      35mil (0.9mm)                                             Round             5         PTH        1.27inch (32.38mm)
+T5      43mil (1.1mm)                                             Round             6         PTH        0.50inch (12.70mm)
+T6      47mil (1.2mm)                                             Round             9         PTH        1.45inch (36.96mm)
+T7      79mil (2mm)                                               Round             4         NPTH       2.77inch (70.40mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              87
+
+Total Processing Time (hh:mm:ss) : 00:00:00

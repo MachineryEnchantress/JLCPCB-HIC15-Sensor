@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: H:\04_work\projects\67.HIC-NAOMI\HIC_HARDWARE_V2\HIC15.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=hic15-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=hic15-slotholes.txt|DrillLayers=gtl,gbl

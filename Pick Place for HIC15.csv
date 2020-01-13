@@ -1,0 +1,52 @@
+Altium Designer Pick and Place Locations
+H:\04_work\projects\67.HIC-NAOMI\HIC_HARDWARE_V2\Project Outputs for PCB_Project\Gerber Files\Pick Place for HIC15.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       13/10/19
+Time:       15:20
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"R10","0402","BottomLayer","R0402","283.858","789.370","360","Resistor"
+"U2","ADXL377","TopLayer","QFN50P300X300X150_HS-17L","1032.334","717.647","270",""
+"LED2","LTST-C190KGKT","TopLayer","LED-0603-GREEN","608.110","64.488","90","LED GREEN CLEAR 0603 SMD"
+"C2","C0603","TopLayer","C0603","952.756","610.236","360","Capacitor"
+"C3","C0603","TopLayer","C0603","298.110","789.488","180","Capacitor"
+"C4","0603","TopLayer","C0603","781.257","282.480","360","CAP CER 10000PF 50V X7R 0402"
+"C5","C0603","TopLayer","C0603","392.874","824.443","90","Capacitor"
+"C6","C0603","TopLayer","C0603","298.110","464.488","180","Capacitor"
+"C7","C0603","TopLayer","C0603","1143.110","745.669","90","Capacitor"
+"C8","C0603","TopLayer","C0603","930.354","765.388","270","Capacitor"
+"C9","C0603","TopLayer","C0603","963.110","859.738","180","Capacitor"
+"C10","C0603","TopLayer","C0603","1100.866","859.738","180","Capacitor"
+"C11","0805","TopLayer","C0805","952.756","392.441","270","CAP CER 10UF 16V X5R 0805"
+"C12","0805","TopLayer","C0805","703.110","394.488","270","CAP CER 10UF 16V X5R 0805"
+"C13","0603","TopLayer","C0603","208.110","231.811","90","Capacitor"
+"C14","0603","TopLayer","C0603","208.110","365.669","270","Capacitor"
+"J1","BAT","TopLayer","HDR1X2","423.110","89.488","360","Header, 2-Pin"
+"L1","0603","TopLayer","FER_0603/1608","913.307","282.480","180","FERRITE BEAD 220 OHM 0603 1LN"
+"LED1","LTST-C190KRKT","TopLayer","LED-0603-RED","678.110","64.488","90","LED, GREEN, 0.9MM X 1.1MM, 10MCD, 570NM"
+"OLED1","Header 7","BottomLayer","CON-7","655.118","1035.433","180","Header, 7-Pin"
+"P1","Header 3X2","TopLayer","SPI_PORT","1203.110","412.953","0","Header, 3-Pin, Dual row"
+"P2","Header 3","TopLayer","HDR1X3","1253.110","774.488","90","Header, 3-Pin"
+"R1","0603","TopLayer","R0603","1189.960","197.402","360","Resistor"
+"R2","0603","TopLayer","R0603","468.110","494.488","180","Resistor"
+"R3","0603","TopLayer","R0603","913.110","494.488","360","Resistor"
+"R4","0603","TopLayer","R0603","510.236","391.496","90","Resistor"
+"R5","0603","TopLayer","R0603","678.110","228.898","270","Resistor"
+"R6","0603","TopLayer","R0603","440.236","391.496","270","Resistor"
+"R7","0603","TopLayer","R0603","608.110","228.898","270","Resistor"
+"R8","0603","TopLayer","R0603","143.110","294.488","90","Resistor"
+"R9","0603","TopLayer","R0603","623.110","494.488","180","Resistor"
+"S1","SW-PB","TopLayer","REED_SWITCH","53.110","564.488","90","Switch"
+"U1","ATMEGA328P","TopLayer","32A-M","668.110","749.488","360",""
+"U3","MCP73831T-2ACI/OT","TopLayer","SOT23-5","828.110","394.488","360","IC CONTROLLR LI-ION 4.2V SOT23-5"
+"U4","MIC5504-3.3YM5TR","TopLayer","SOT23-5","313.110","314.488","90","IC REG LINEAR 3.3V 300MA SOT23-5"
+"USB1","10118194-0001LF","TopLayer","10118194-0001LF","873.937","157.638","360","CONN USB MICRO B RECPT SMT R/A"
+"Y1","16MHz","TopLayer","ABM3","308.110","624.488","90","Crystal Oscillator"
+"D1","MBR120VLSFT3G","TopLayer","SOD-123FL","157.362","524.488","270","DIODE SCHOTTKY 20V 1A SOD123FL"
+"D2","MBR120VLSFT3G","TopLayer","SOD-123FL","158.110","741.890","90","DIODE SCHOTTKY 20V 1A SOD123FL"
